@@ -1,4 +1,4 @@
-# MERN-Dec-PT-2024
+# MERN-Dec-FT-2024
 
 # Welcome to Instructor Wael GitHUB Repo
  
